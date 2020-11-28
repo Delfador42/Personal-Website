@@ -67,10 +67,13 @@ nav{
 
 .active{
     background: $gray-text;
-    border-radius: 20px; 
-    padding: 1rem;
-    color: rgb(190, 189, 189);
+    border-radius: 12px; 
+    padding: 1rem 3rem;
+    color: rgb(223, 223, 223);
     font-size: smaller;
+    text-align: center;
+    box-shadow: 0 0 10px 0 rgba(0,0,0,.9);
+
 }
 
 .intro-text, .intro-images{
